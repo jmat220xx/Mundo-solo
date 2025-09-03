@@ -1,5 +1,5 @@
-[21:38:55] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[21:38:55] [main/INFO]: Loading 40 mods:
+[20:04:35] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[20:04:35] [main/INFO]: Loading 40 mods:
 	- fabric-api 0.132.0+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -47,76 +47,53 @@
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.8
-[21:38:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-solo/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:38:56] [main/INFO]: Compatibility level set to JAVA_21
-[21:38:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:39:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:39:14] [main/INFO]: Loaded 1407 recipes
-[21:39:14] [main/INFO]: Loaded 1520 advancements
-[21:39:14] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.280 ms
-[21:39:14] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:39:14] [Server thread/INFO]: Loading properties
-[21:39:14] [Server thread/INFO]: Default game type: SURVIVAL
-[21:39:14] [Server thread/INFO]: Generating keypair
-[21:39:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:39:15] [Server thread/INFO]: Using epoll channel type
-[21:39:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:39:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:39:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:39:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:39:15] [Server thread/INFO]: Preparing level "world"
-[21:39:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:39:26] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[21:39:26] [Server thread/INFO]: Time elapsed: 10123 ms
-[21:39:26] [Server thread/INFO]: Done (10.676s)! For help, type "help"
-[21:39:46] [Server thread/INFO]: Jmat250x[/127.31.58.135:48353] logged in with entity id 40 at (-139.8046818035654, 47.0, -165.62211373968847)
-[21:39:46] [Server thread/INFO]: Jmat250x joined the game
-[21:40:46] [Server thread/INFO]: Jmat250x has made the advancement [Acquire Hardware]
-[21:41:47] [Server thread/INFO]: [Not Secure] <Jmat250x> a
-[21:43:34] [Server thread/INFO]: Jmat250x was slain by Zombie
-[21:45:20] [Server thread/INFO]: Jmat250x has made the advancement [Isn't It Iron Pick]
-[21:50:32] [Server thread/INFO]: Jmat250x has made the advancement [Not Today, Thank You]
-[21:59:56] [Server thread/INFO]: Jmat250x has made the advancement [Suit Up]
-[22:09:40] [Server thread/INFO]: Jmat250x has made the advancement [Diamonds!]
-[22:11:20] [Server thread/INFO]: Jmat250x has made the advancement [Sneak 100]
-[22:12:09] [Server thread/INFO]: Jmat250x has completed the challenge [It Spreads]
-[22:25:57] [Server thread/INFO]: Jmat250x has made the advancement [Sweet Dreams]
-[22:27:47] [Server thread/INFO]: Jmat250x has made the advancement [Best Friends Forever]
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.3119507258467138,4.0,9.671580228446913
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.2758454812226887,4.0,10.296882014838047
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.24046365496320732,5.0,10.92223109744043
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.20623907899965843,5.0,11.547645529917673
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.17635021177665067,5.0,12.173265866856582
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.15182582538983525,6.0,12.799100968483515
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.13320128365199935,7.0,13.425123553256157
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.11779805746670036,7.0,14.051248503838252
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.10562569302857128,7.0,14.677452634716701
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:18] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:19] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:19] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:19] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:19] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:19] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
-[22:33:19] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -0.29667907976835295,-5.0,-9.388851007580087
+[20:04:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-solo/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:04:36] [main/INFO]: Compatibility level set to JAVA_21
+[20:04:37] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:04:48] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:04:53] [main/INFO]: Loaded 1407 recipes
+[20:04:53] [main/INFO]: Loaded 1520 advancements
+[20:04:53] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.187 ms
+[20:04:53] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:04:53] [Server thread/INFO]: Loading properties
+[20:04:53] [Server thread/INFO]: Default game type: SURVIVAL
+[20:04:53] [Server thread/INFO]: Generating keypair
+[20:04:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:04:54] [Server thread/INFO]: Using epoll channel type
+[20:04:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:04:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:04:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:04:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:04:54] [Server thread/INFO]: Preparing level "world"
+[20:04:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:05:04] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[20:05:04] [Server thread/INFO]: Time elapsed: 9589 ms
+[20:05:04] [Server thread/INFO]: Done (10.167s)! For help, type "help"
+[20:05:19] [Server thread/INFO]: Jmat250x[/127.31.58.135:46647] logged in with entity id 36 at (-1115.6117087751234, 69.84375002384186, 476.2917930130813)
+[20:05:19] [Server thread/INFO]: Jmat250x joined the game
+[20:13:48] [Server thread/INFO]: Jmat250x was shot by Pillager
+[20:22:25] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -1.099463897000419,-0.23152379758701613,-10.041675810454455
+[20:22:25] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -1.3150481394025064,-0.30992379911289447,-10.629354594281178
+[20:22:25] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -1.442736466242991,-0.46515580362950004,-10.976855171759649
+[20:22:25] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -1.5689121638333745,-0.6956831725424593,-11.319708630617498
+[20:22:25] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -1.6937113687665715,-1.0,-11.658333211408708
+[20:22:25] [Server thread/WARN]: Horse (vehicle of Jmat250x) moved too quickly! -1.8172579653455614,-1.2315237975870161,-11.993109513048369
