@@ -11,12 +11,13 @@
       "minecraft:beach": "2025-08-31 01:37:51 +0000",
       "minecraft:forest": "2025-08-31 01:26:20 +0000",
       "minecraft:taiga": "2025-08-31 01:32:41 +0000",
-      "minecraft:deep_dark": "2025-08-31 22:11:11 +0000",
-      "minecraft:cherry_grove": "2025-08-31 22:35:45 +0000",
       "minecraft:river": "2025-08-31 01:38:32 +0000",
-      "minecraft:meadow": "2025-08-31 01:52:26 +0000",
       "minecraft:stony_shore": "2025-08-31 01:36:14 +0000",
       "minecraft:dripstone_caves": "2025-08-31 21:48:20 +0000",
+      "minecraft:deep_dark": "2025-08-31 22:11:11 +0000",
+      "minecraft:cherry_grove": "2025-08-31 22:35:45 +0000",
+      "minecraft:sunflower_plains": "2025-09-03 20:22:38 +0000",
+      "minecraft:meadow": "2025-08-31 01:52:26 +0000",
       "minecraft:savanna": "2025-08-31 22:46:24 +0000",
       "minecraft:plains": "2025-08-31 01:38:01 +0000"
     },
@@ -1627,6 +1628,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-03 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-03 20:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-09-03 20:08:21 +0000"
@@ -1645,15 +1658,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-03 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-03 20:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-09-03 20:07:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-03 20:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-09-03 20:20:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-09-03 20:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-09-03 20:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-09-03 20:35:02 +0000"
     },
     "done": true
   },
@@ -1669,9 +1718,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-09-03 20:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-09-03 20:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-03 20:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-09-03 20:34:38 +0000"
     },
     "done": true
   },
