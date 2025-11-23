@@ -1,0 +1,53 @@
+[17:52:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:52:27] [ServerMain/INFO]: Loaded 1461 recipes
+[17:52:27] [ServerMain/INFO]: Loaded 1574 advancements
+[17:52:27] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[17:52:27] [Server thread/INFO]: Loading properties
+[17:52:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:27] [Server thread/INFO]: Generating keypair
+[17:52:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:52:27] [Server thread/INFO]: Using epoll channel type
+[17:52:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:52:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:52:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:52:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:52:27] [Server thread/INFO]: Preparing level "world"
+[17:52:28] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:52:28] [Server thread/INFO]: Preparing spawn area: 100%
+[17:52:28] [Server thread/INFO]: Time elapsed: 15 ms
+[17:52:28] [Server thread/INFO]: Done (0.474s)! For help, type "help"
+[17:52:54] [Server thread/INFO]: Jmat250x[/127.31.58.135:51387] logged in with entity id 62 at (207.49581257331883, 63.0, -1031.6883093270371)
+[17:52:54] [Server thread/INFO]: Jmat250x joined the game
+[17:53:11] [Server thread/INFO]: Ripstiven[/127.41.159.22:59375] logged in with entity id 497 at (203.3821801505416, 63.0, -1042.4241111667661)
+[17:53:11] [Server thread/INFO]: Ripstiven joined the game
+[17:53:39] [Server thread/INFO]: Jmat250x lost connection: Timed out
+[17:53:39] [Server thread/INFO]: Jmat250x left the game
+[17:53:39] [Server thread/WARN]: handleDisconnection() called twice
+[18:02:21] [Server thread/INFO]: Jmat250x[/127.31.58.135:48119] logged in with entity id 1895 at (203.53192398638186, 63.0, -1035.3446057818362)
+[18:02:21] [Server thread/INFO]: Jmat250x joined the game
+[18:03:12] [Server thread/INFO]: [Not Secure] <Jmat250x> i need some sleep
+[18:03:34] [Server thread/INFO]: [Not Secure] <Jmat250x> a
+[18:32:03] [Server thread/INFO]: Ripstiven has made the advancement [Suit Up]
+[18:36:50] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=244, y=68, z=-950} ja{x=244, y=66, z=-950}
+[18:38:52] [Server thread/INFO]: Villager cyx['Villager'/8, l='ServerLevel[world]', x=177.90, y=71.00, z=-983.30] died, message: 'Villager hit the ground too hard while trying to escape Drowned'
+[18:42:21] [Server thread/INFO]: Ripstiven has made the advancement [Not Today, Thank You]
+[18:43:55] [Server thread/INFO]: Ripstiven was blown up by Creeper
+[18:47:48] [Server thread/INFO]: Ripstiven has made the advancement [The Parrots and the Bats]
+[18:50:44] [Server thread/INFO]: Ripstiven has made the advancement [We Need to Go Deeper]
+[18:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
+[18:55:46] [Server thread/INFO]: Jmat250x has made the advancement [Not Today, Thank You]
+[18:57:09] [Server thread/INFO]: [Not Secure] <Ripstiven> 266 69 -881
+[18:57:54] [Server thread/INFO]: [Not Secure] <Ripstiven> 42 67 -114
+[18:58:00] [Server thread/INFO]: Jmat250x has made the advancement [Take Aim]
+[18:59:32] [Server thread/INFO]: Jmat250x has made the advancement [Those Were the Days]
+[19:00:44] [Server thread/INFO]: Ripstiven was slain by Piglin
+[19:02:32] [Server thread/INFO]: Ripstiven was shot by Skeleton
+[19:03:20] [Server thread/INFO]: Jmat250x has made the advancement [War Pigs]
+[19:03:23] [Server thread/INFO]: Jmat250x has made the advancement [Hidden in the Depths]
+[19:03:40] [Server thread/INFO]: Jmat250x has made the advancement [Who is Cutting Onions?]
+[19:06:27] [Server thread/INFO]: Ripstiven was fireballed by Ghast
+[19:08:48] [Server thread/INFO]: Jmat250x tried to swim in lava
+[19:10:00] [Server thread/INFO]: Ripstiven was shot by Skeleton
+[19:10:10] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=282, y=70, z=-891} ja{x=283, y=69, z=-892}
+[19:10:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=276, y=70, z=-892} ja{x=277, y=69, z=-892}
+[19:12:53] [Server thread/INFO]: Jmat250x has made the advancement [Cover Me with Diamonds]
